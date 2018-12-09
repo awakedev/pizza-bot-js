@@ -1,0 +1,11 @@
+{
+  "name": "slicebot",
+  "version": "1.0.0",
+  "description": "an automated pizza delivery bot",
+  "main": "js/pizzabot.js",
+  "scripts": {
+    "start": "node pizzabot.js"
+  },
+  "author": "Anon",
+  "license": "ISC"
+}
